@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "80039370554",
+    "project_id": "juicehub-53aa4",
+    "storage_bucket": "juicehub-53aa4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:80039370554:android:9549ed83745bb67cfeba03",
+        "android_client_info": {
+          "package_name": "com.firstLogicMetaLab.ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "80039370554-jleru1ks1mmfag1fru6j4tp2gf0lq09b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCtidEX06RUKmhzMDRkQ8e1Sq5sUn41i8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "80039370554-jleru1ks1mmfag1fru6j4tp2gf0lq09b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
